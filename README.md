@@ -1,35 +1,35 @@
-# ⚠️ Proyecto Archivado
+# ⚠️ Archived Project
 
-**Colección de Proyectos Laravel Antiguos (2020) - Archivado como referencia histórica**
-
----
-
-## Estado del Proyecto
-
-Este repositorio está **archivado** y ya no recibe mantenimiento activo.
-
-### ¿Por qué se archivó?
-
-- Colección de proyectos Laravel antiguos (año 2020)
-- Proyectos de aprendizaje/experimentación
-- Se archiva como referencia histórica del aprendizaje
+**Collection of Old Laravel Projects (2020) - Archived as historical reference**
 
 ---
 
-## Información Original
+## Project Status
 
-Repositorio que contiene múltiples proyectos pequeños desarrollados con Laravel:
-- Voyarge - Sistema de reservas de vuelos
-- GameAPI - API de autenticación para videojuegos
-- geoname_api - API para buscar ciudades usando geonames.org
-- Linkt - Clon de Linktree
-- travel - Agencia de viajes y constructor de sitios web
+This repository is **archived** and is no longer actively maintained.
 
-## Tecnologías
+### Why was this archived?
+
+- Collection of old Laravel projects from 2020
+- Learning/experimental projects
+- Archived as historical reference of the learning journey
+
+---
+
+## Original Information
+
+Repository containing multiple small projects developed with Laravel:
+- Voyarge - Flight reservation system
+- GameAPI - Authentication API for video games
+- geoname_api - API to search cities using geonames.org
+- Linkt - Linktree clone
+- travel - Travel agency website and builder
+
+## Technologies
 
 - Laravel
 - PHP
 
 ---
 
-**Nota:** Este repositorio se mantiene como referencia histórica de proyectos de aprendizaje.
+**Note:** This repository is kept as historical reference of learning projects.
