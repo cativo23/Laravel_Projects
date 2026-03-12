@@ -1,13 +1,35 @@
-<p align="center"><img  src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg"  width="400"></p>
+# ⚠️ Proyecto Archivado
 
-## About
+**Colección de Proyectos Laravel Antiguos (2020) - Archivado como referencia histórica**
 
-This repository has all my best and complete projects done in Laravel
+---
 
-### Projects:
+## Estado del Proyecto
 
- - [Voyarge](https://github.com/cativo23/Laravel_Projects/tree/master/Voyarge): a flight reservation, airport and airline administration website.
- - [GameAPI](https://github.com/cativo23/Laravel_Projects/tree/master/GameAPI): a simple authentication API for a videogame
- - [geoname_api](https://github.com/cativo23/Laravel_Projects/tree/master/geoname_api): API to search for cities, regions and countries using the [geonames.org](geonames.org) database
- - [Linkt](https://github.com/cativo23/Laravel_Projects/tree/master/linkt): a Linktree clone
- - [travel](https://github.com/cativo23/Laravel_Projects/tree/master/travel): a travel agency website, and website builder, using integrations with other APIs and third party services.
+Este repositorio está **archivado** y ya no recibe mantenimiento activo.
+
+### ¿Por qué se archivó?
+
+- Colección de proyectos Laravel antiguos (año 2020)
+- Proyectos de aprendizaje/experimentación
+- Se archiva como referencia histórica del aprendizaje
+
+---
+
+## Información Original
+
+Repositorio que contiene múltiples proyectos pequeños desarrollados con Laravel:
+- Voyarge - Sistema de reservas de vuelos
+- GameAPI - API de autenticación para videojuegos
+- geoname_api - API para buscar ciudades usando geonames.org
+- Linkt - Clon de Linktree
+- travel - Agencia de viajes y constructor de sitios web
+
+## Tecnologías
+
+- Laravel
+- PHP
+
+---
+
+**Nota:** Este repositorio se mantiene como referencia histórica de proyectos de aprendizaje.
